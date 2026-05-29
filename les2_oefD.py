@@ -1,3 +1,5 @@
+
+
 getal_tekst = '25'
 getal_int = int(getal_tekst)
 getal_float = float(getal_tekst)
